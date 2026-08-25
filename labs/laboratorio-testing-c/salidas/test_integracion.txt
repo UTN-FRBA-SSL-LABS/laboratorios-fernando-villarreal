@@ -1,0 +1,4 @@
+=== Tests de integracion ===  [FAIL] carrito_total(&c) => esperado 1300, obtenido 700  (linea 22)
+  [FAIL] carrito_descuento(carrito_total(&c), 10) => esperado 1170, obtenido 630  (linea 23)
+
+--- 0/2 tests OK, 2 FALLARON ---
